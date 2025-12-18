@@ -47,5 +47,5 @@ jobs:
           tagName: v__VERSION__ # Utilise la version du package.json
           releaseName: "App v__VERSION__"
           releaseBody: "Mise à jour automatique de l'application."
-          releaseDraft: true
+          releaseDraft: false
           prerelease: false
